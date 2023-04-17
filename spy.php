@@ -1,2 +1,2 @@
-scrapy startproject <project_name>
+scrapy startproject <ilispy>
 scrapy crawl <spy>
